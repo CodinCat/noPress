@@ -1,6 +1,6 @@
 # WordPress is not the only solution to build your new website.
 
-Here are some other solutions that are free, open source and under active development.
+Here are some other solutions that are **free**, **open source** and under **active development**.
 
 # Databaseless solutions
 
