@@ -21,6 +21,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [IBM Bluemix](https://console.ng.bluemix.net/)
 -   [Firebase Hosting](https://www.firebase.com/hosting.html)
 -   [GitHub Pages](https://pages.github.com/)
+  -   [Prose](http://prose.io/) (GitHub Pages Editor)
 -   [Forge](https://getforge.com/)
 -   [Aerobatic](https://www.aerobatic.com/)
 -   [Surge](https://surge.sh/)
