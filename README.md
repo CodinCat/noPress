@@ -15,6 +15,9 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Hexo** (https://hexo.io/)](https://hexo.io/) (Node.js)
 -   [**Jekyll** (https://jekyllrb.com/)](https://jekyllrb.com/) (Ruby)
 -   [**Pelican** (http://getpelican.com/)](http://getpelican.com/) (Python)
+-   [**Metalsmith** (http://www.metalsmith.io/)](http://www.metalsmith.io/) (Node.js)
+-   [**Brunch** (http://brunch.io/)](http://brunch.io/) (Node.js)
+-   [**Harp** (http://harpjs.com/)](http://harpjs.com/) (Node.js)
 
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
