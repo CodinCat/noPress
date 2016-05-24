@@ -22,7 +22,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
 -   [IBM Bluemix](https://console.ng.bluemix.net/)
--   [Firebase Hosting](https://www.firebase.com/hosting.html)
+-   [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 -   [GitHub Pages](https://pages.github.com/)
   -   [Prose](http://prose.io/) (GitHub Pages Editor)
 -   [Forge](https://getforge.com/)
