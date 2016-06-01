@@ -18,7 +18,8 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Metalsmith** (http://www.metalsmith.io/)](http://www.metalsmith.io/) (Node.js)
 -   [**Brunch** (http://brunch.io/)](http://brunch.io/) (Node.js)
 -   [**Harp** (http://harpjs.com/)](http://harpjs.com/) (Node.js)
--   [**Vuelog** (https://myst729.github.io/Vuelog/)](https://myst729.github.io/Vuelog/) (JavaScript)
+-   [**Vuelog** (https://myst729.github.io/Vuelog/)](https://myst729.github.io/Vuelog/) (JavaScript, Vue.js)
+-   [**Gatsby** (https://github.com/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) (JavaScript, React)
 
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
