@@ -20,6 +20,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Harp** (http://harpjs.com/)](http://harpjs.com/) (Node.js)
 -   [**Vuelog** (https://myst729.github.io/Vuelog/)](https://myst729.github.io/Vuelog/) (JavaScript, Vue.js)
 -   [**Gatsby** (https://github.com/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) (JavaScript, React)
+-   [**MkDocs** (http://www.mkdocs.org/)](http://www.mkdocs.org/) (Python)
 
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
