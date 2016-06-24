@@ -1,8 +1,8 @@
-# WordPress is not the only solution to build your new website.
+## WordPress is not the only solution to build your new website.
 
 Here are some other solutions that are **free**, **open source** and under **active development**.
 
-## Databaseless solutions
+# Databaseless solutions
 
 ### Flat-file CMS
 -   [**Grav** (https://getgrav.org/)](https://getgrav.org/) (PHP)
@@ -21,6 +21,8 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Vuelog** (https://myst729.github.io/Vuelog/)](https://myst729.github.io/Vuelog/) (JavaScript, Vue.js)
 -   [**Gatsby** (https://github.com/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) (JavaScript, React)
 -   [**MkDocs** (http://www.mkdocs.org/)](http://www.mkdocs.org/) (Python)
+-   [**Hakyll** (https://jaspervdj.be/hakyll/)](https://jaspervdj.be/hakyll/) (Haskell)
+-   [**Lektor** (https://www.getlektor.com/)](https://www.getlektor.com/) (Python)
 
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
@@ -35,7 +37,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 
 ------
 
-## With a Database
+# With a Database
 -   [**Pagekit** (https://pagekit.com/)](https://pagekit.com/) (PHP)
 -   [**October** (https://octobercms.com/)](https://octobercms.com/) (PHP)
 -   [**Sulu** (http://sulu.io/)](http://sulu.io/) (PHP)
