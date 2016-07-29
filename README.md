@@ -23,6 +23,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**MkDocs** (http://www.mkdocs.org/)](http://www.mkdocs.org/) (Python)
 -   [**Hakyll** (https://jaspervdj.be/hakyll/)](https://jaspervdj.be/hakyll/) (Haskell)
 -   [**Lektor** (https://www.getlektor.com/)](https://www.getlektor.com/) (Python)
+-   [**Bi Sheng** (https://github.com/benjycui/bisheng)](https://github.com/benjycui/bisheng) (Node.js)
 
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
