@@ -35,6 +35,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [Aerobatic](https://www.aerobatic.com/)
 -   [Surge](https://surge.sh/)
 -   [PubStorm](http://www.pubstorm.com/)
+-   [now (zeit)](https://zeit.co/)
 
 ------
 
