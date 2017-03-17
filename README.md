@@ -10,7 +10,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Pico** (http://picocms.org/)](http://picocms.org/) (PHP)
 -   [**Monstra** (http://monstra.org/)](http://monstra.org/) (PHP)
 
-### Static Site Generator
+### Static Site Generators
 -   [**Hugo** (https://gohugo.io/)](http://gohugo.io/) (Go)
 -   [**Hexo** (https://hexo.io/)](https://hexo.io/) (Node.js)
 -   [**Jekyll** (https://jekyllrb.com/)](https://jekyllrb.com/) (Ruby)
@@ -25,6 +25,9 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Lektor** (https://www.getlektor.com/)](https://www.getlektor.com/) (Python)
 -   [**Bi Sheng** (https://github.com/benjycui/bisheng)](https://github.com/benjycui/bisheng) (Node.js)
 -   [**Nuxt** (https://nuxtjs.org/)](https://nuxtjs.org/) (Vue.js, with `nuxt generate` command)
+
+### CMS for Static Site Generators
+-   [**Netlify CMS** (https://www.netlifycms.org/)](https://www.netlifycms.org/) (React)
 
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
