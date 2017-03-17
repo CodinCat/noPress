@@ -28,13 +28,13 @@ Here are some other solutions that are **free**, **open source** and under **act
 
 ### CMS for Static Site Generators
 -   [**Netlify CMS** (https://www.netlifycms.org/)](https://www.netlifycms.org/) (React)
+-   [**Prose** (http://prose.io/)](http://prose.io/)
 
 #### Static Site Hosting (free or with a free tier) 
 -   [Google App Engine](https://cloud.google.com/appengine/)
 -   [IBM Bluemix](https://console.ng.bluemix.net/)
 -   [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 -   [GitHub Pages](https://pages.github.com/)
-  -   [Prose](http://prose.io/) (GitHub Pages Editor)
 -   [Forge](https://getforge.com/)
 -   [Aerobatic](https://www.aerobatic.com/)
 -   [Surge](https://surge.sh/)
