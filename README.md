@@ -25,6 +25,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Lektor** (https://www.getlektor.com/)](https://www.getlektor.com/) (Python)
 -   [**Bi Sheng** (https://github.com/benjycui/bisheng)](https://github.com/benjycui/bisheng) (Node.js)
 -   [**Nuxt** (https://nuxtjs.org/)](https://nuxtjs.org/) (Vue.js, with `nuxt generate` command)
+-   [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
 
 ### CMS for Static Site Generators
 -   [**Netlify CMS** (https://www.netlifycms.org/)](https://www.netlifycms.org/) (React)
