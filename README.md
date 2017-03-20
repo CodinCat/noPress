@@ -41,6 +41,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [Surge](https://surge.sh/)
 -   [PubStorm](http://www.pubstorm.com/)
 -   [now (zeit)](https://zeit.co/)
+-   [Netlify](https://www.netlify.com/)
 
 ------
 
