@@ -4,13 +4,13 @@ Here are some other solutions that are **free**, **open source** and under **act
 
 # Databaseless solutions
 
-### Flat-file CMS
+## Flat-file CMS
 -   [**Grav** (https://getgrav.org/)](https://getgrav.org/) (PHP)
 -   [**Bolt** (https://bolt.cm/)](https://bolt.cm/) (PHP)
 -   [**Pico** (http://picocms.org/)](http://picocms.org/) (PHP)
 -   [**Monstra** (http://monstra.org/)](http://monstra.org/) (PHP)
 
-### Static Site Generators
+## Static Site Generators
 -   [**Hugo** (https://gohugo.io/)](http://gohugo.io/) (Go)
 -   [**Hexo** (https://hexo.io/)](https://hexo.io/) (Node.js)
 -   [**Jekyll** (https://jekyllrb.com/)](https://jekyllrb.com/) (Ruby)
@@ -27,7 +27,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Nuxt** (https://nuxtjs.org/)](https://nuxtjs.org/) (Vue.js, with `nuxt generate` command)
 -   [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
 
-### CMS for Static Site Generators
+#### CMS for Static Site Generators (free or with a free tier) 
 -   [**Netlify CMS** (https://www.netlifycms.org/)](https://www.netlifycms.org/) (React)
 -   [**Prose** (http://prose.io/)](http://prose.io/)
 -   [**Forestry** (https://forestry.io/)](https://forestry.io/) (Jekyll, Hugo, Git)
