@@ -34,16 +34,16 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Forestry** (https://forestry.io/)](https://forestry.io/) (Jekyll, Hugo, Git)
 
 #### Static Site Hosting (free or with a free tier) 
--   [Google App Engine](https://cloud.google.com/appengine/)
--   [IBM Bluemix](https://console.ng.bluemix.net/)
+-   [now (zeit)](https://zeit.co/)
 -   [Firebase Hosting](https://firebase.google.com/docs/hosting/)
+-   [Netlify](https://www.netlify.com/)
+-   [Surge](https://surge.sh/)
 -   [GitHub Pages](https://pages.github.com/)
 -   [Forge](https://getforge.com/)
 -   [Aerobatic](https://www.aerobatic.com/)
--   [Surge](https://surge.sh/)
 -   [PubStorm](http://www.pubstorm.com/)
--   [now (zeit)](https://zeit.co/)
--   [Netlify](https://www.netlify.com/)
+-   [Google App Engine](https://cloud.google.com/appengine/)
+-   [IBM Bluemix](https://console.ng.bluemix.net/)
 
 ------
 
