@@ -25,7 +25,8 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Lektor** (https://www.getlektor.com/)](https://www.getlektor.com/) (Python)
 -   [**Bi Sheng** (https://github.com/benjycui/bisheng)](https://github.com/benjycui/bisheng) (Node.js)
 -   [**Nuxt** (https://nuxtjs.org/)](https://nuxtjs.org/) (Vue.js, with `nuxt generate` command)
--   [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
+-   [**Nextein** (https://nextein.now.sh/)](https://nextein.now.sh/) (Next.js)
+-   [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
 -   [**Phenomic** (https://phenomic.io/)](https://phenomic.io/)
 
 #### CMS for Static Site Generators (free or with a free tier) 
