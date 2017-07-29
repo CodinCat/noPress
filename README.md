@@ -18,6 +18,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Metalsmith** (http://www.metalsmith.io/)](http://www.metalsmith.io/) (Node.js)
 -   [**Brunch** (http://brunch.io/)](http://brunch.io/) (Node.js)
 -   [**Harp** (http://harpjs.com/)](http://harpjs.com/) (Node.js)
+- [**Ivy** (http://mulholland.xyz/docs/ivy/)](http://mulholland.xyz/docs/ivy/) (Python)
 -   [**Vuelog** (https://myst729.github.io/Vuelog/)](https://myst729.github.io/Vuelog/) (Vue.js)
 -   [**Gatsby** (https://github.com/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) (React)
 -   [**MkDocs** (http://www.mkdocs.org/)](http://www.mkdocs.org/) (Python)
