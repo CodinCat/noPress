@@ -46,7 +46,6 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [GitHub Pages](https://pages.github.com/)
 -   [Forge](https://getforge.com/)
 -   [Aerobatic](https://www.aerobatic.com/)
--   [PubStorm](http://www.pubstorm.com/)
 -   [Google App Engine](https://cloud.google.com/appengine/)
 -   [IBM Bluemix](https://console.ng.bluemix.net/)
 
