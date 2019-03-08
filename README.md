@@ -32,6 +32,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 - [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
 -   [**Phenomic** (https://phenomic.io/)](https://phenomic.io/)
 -  [**React Static** (https://github.com/nozzle/react-static)](https://github.com/nozzle/react-static)
+-  [**Eleventy** (https://www.11ty.io/)](https://www.11ty.io/)
 
 #### CMS for Static Site Generators (free or with a free tier) 
 -   [**Netlify CMS** (https://www.netlifycms.org/)](https://www.netlifycms.org/) (React)
