@@ -9,6 +9,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Bolt** (https://bolt.cm/)](https://bolt.cm/) (PHP)
 -   [**Pico** (http://picocms.org/)](http://picocms.org/) (PHP)
 -   [**Monstra** (http://monstra.org/)](http://monstra.org/) (PHP)
+-   [**Vapid** (https://www.vapid.com/)](https://www.vapid.com/) (Node.js)
 
 ## Static Site Generators
 -   [**Hugo** (https://gohugo.io/)](http://gohugo.io/) (Go)
