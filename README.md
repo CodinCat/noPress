@@ -2,14 +2,13 @@
 
 Here are some other solutions that are **free**, **open source** and under **active development**.
 
-# Databaseless solutions
+# Databaseless
 
 ## Flat-file CMS
 -   [**Grav** (https://getgrav.org/)](https://getgrav.org/) (PHP)
 -   [**Bolt** (https://bolt.cm/)](https://bolt.cm/) (PHP)
 -   [**Pico** (http://picocms.org/)](http://picocms.org/) (PHP)
 -   [**Monstra** (http://monstra.org/)](http://monstra.org/) (PHP)
--   [**Vapid** (https://www.vapid.com/)](https://www.vapid.com/) (Node.js)
 
 ## Static Site Generators
 -   [**Hugo** (https://gohugo.io/)](http://gohugo.io/) (Go)
@@ -28,7 +27,9 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Hakyll** (https://jaspervdj.be/hakyll/)](https://jaspervdj.be/hakyll/) (Haskell)
 -   [**Lektor** (https://www.getlektor.com/)](https://www.getlektor.com/) (Python)
 -   [**Bi Sheng** (https://github.com/benjycui/bisheng)](https://github.com/benjycui/bisheng) (Node.js)
--   [**Nuxt** (https://nuxtjs.org/)](https://nuxtjs.org/) (Vue.js, with `nuxt generate` command)
+-   [**Nuxt** (https://nuxtjs.org/)](https://nuxtjs.org/) (Vue.js, via `nuxt generate` command)
+-   [**Next.js** (https://nextjs.org/)](https://nextjs.org/) (React, via `next export` command)
+-   [**Docusaurus** (https://docusaurus.io/)](https://docusaurus.io/) (React)
 - [**Nextein** (https://nextein.now.sh/)](https://nextein.now.sh/) (React, Next.js)
 - [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
 -   [**Phenomic** (https://phenomic.io/)](https://phenomic.io/)
@@ -40,21 +41,21 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Prose** (http://prose.io/)](http://prose.io/)
 -   [**Forestry** (https://forestry.io/)](https://forestry.io/) (Jekyll, Hugo, Git)
 
-#### Static Site Hosting (free or with a free tier) 
--   [now (zeit)](https://zeit.co/)
--   [Firebase Hosting](https://firebase.google.com/docs/hosting/)
+#### Static Site Hosting (with a free tier) 
+-   [Vercel](http://vercel.com/)
 -   [Netlify](https://www.netlify.com/)
+-   [Cloudflare Pages](https://pages.cloudflare.com/)
 -   [Surge](https://surge.sh/)
+-   [render](https://render.com/)
+-   [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
 -   [GitHub Pages](https://pages.github.com/)
--   [Forge](https://getforge.com/)
--   [Aerobatic](https://www.aerobatic.com/)
+-   [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 -   [Google App Engine](https://cloud.google.com/appengine/)
 -   [IBM Bluemix](https://console.ng.bluemix.net/)
 
 ------
 
 # With a Database
--   [**Pagekit** (https://pagekit.com/)](https://pagekit.com/) (PHP)
 -   [**October** (https://octobercms.com/)](https://octobercms.com/) (PHP)
 -   [**Sulu** (http://sulu.io/)](http://sulu.io/) (PHP)
 -   [**Roadiz** (https://www.roadiz.io/)](https://www.roadiz.io/) (PHP)
