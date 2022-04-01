@@ -47,11 +47,14 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [Cloudflare Pages](https://pages.cloudflare.com/)
 -   [Surge](https://surge.sh/)
 -   [render](https://render.com/)
+-   [fly.io](https://fly.io/)
 -   [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
 -   [GitHub Pages](https://pages.github.com/)
+-   [Koyeb](https://www.koyeb.com/)
 -   [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 -   [Google App Engine](https://cloud.google.com/appengine/)
--   [IBM Bluemix](https://console.ng.bluemix.net/)
+-   [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/)
+-   [Heroku](https://www.heroku.com/)
 
 ------
 
