@@ -8,7 +8,6 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Grav** (https://getgrav.org/)](https://getgrav.org/) (PHP)
 -   [**Bolt** (https://bolt.cm/)](https://bolt.cm/) (PHP)
 -   [**Pico** (http://picocms.org/)](http://picocms.org/) (PHP)
--   [**Monstra** (http://monstra.org/)](http://monstra.org/) (PHP)
 
 ## Static Site Generators
 -   [**Hugo** (https://gohugo.io/)](http://gohugo.io/) (Go)
