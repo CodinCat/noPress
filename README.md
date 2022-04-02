@@ -12,6 +12,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 
 ## Static Site Generators
 -   [**Hugo** (https://gohugo.io/)](http://gohugo.io/) (Go)
+-   [**Astro** (https://astro.build/)](https://astro.build/) (Node.js + any framework)
 -   [**VuePress** (https://vuepress.vuejs.org/)](https://vuepress.vuejs.org/)  (Vue.js)
 -   [**Gridsome** (https://gridsome.org/)](https://gridsome.org/)  (Vue.js)
 -   [**Hexo** (https://hexo.io/)](https://hexo.io/) (Node.js)
@@ -20,7 +21,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Metalsmith** (http://www.metalsmith.io/)](http://www.metalsmith.io/) (Node.js)
 -   [**Brunch** (http://brunch.io/)](http://brunch.io/) (Node.js)
 -   [**Harp** (http://harpjs.com/)](http://harpjs.com/) (Node.js)
-- [**Ivy** (http://mulholland.xyz/docs/ivy/)](http://mulholland.xyz/docs/ivy/) (Python)
+-   [**Ivy** (http://mulholland.xyz/docs/ivy/)](http://mulholland.xyz/docs/ivy/) (Python)
 -   [**Vuelog** (https://myst729.github.io/Vuelog/)](https://myst729.github.io/Vuelog/) (Vue.js)
 -   [**Gatsby** (https://github.com/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) (React)
 -   [**MkDocs** (http://www.mkdocs.org/)](http://www.mkdocs.org/) (Python)
@@ -30,11 +31,10 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Nuxt** (https://nuxtjs.org/)](https://nuxtjs.org/) (Vue.js, via `nuxt generate` command)
 -   [**Next.js** (https://nextjs.org/)](https://nextjs.org/) (React, via `next export` command)
 -   [**Docusaurus** (https://docusaurus.io/)](https://docusaurus.io/) (React)
-- [**Nextein** (https://nextein.now.sh/)](https://nextein.now.sh/) (React, Next.js)
-- [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
+-   [**Nextein** (https://nextein.now.sh/)](https://nextein.now.sh/) (React, Next.js)
+-   [**Gustavo** (https://github.com/eggplanetio/gustavo)](https://github.com/eggplanetio/gustavo)
 -   [**Phenomic** (https://phenomic.io/)](https://phenomic.io/)
--  [**React Static** (https://github.com/nozzle/react-static)](https://github.com/nozzle/react-static)
--  [**Eleventy** (https://www.11ty.io/)](https://www.11ty.io/)
+-   [**Eleventy** (https://www.11ty.io/)](https://www.11ty.io/)
 
 #### CMS for Static Site Generators (free or with a free tier) 
 -   [**Netlify CMS** (https://www.netlifycms.org/)](https://www.netlifycms.org/) (React)
