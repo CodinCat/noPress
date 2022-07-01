@@ -12,7 +12,7 @@ Here are some other solutions that are **free**, **open source** and under **act
 ## Static Site Generators
 -   [**Hugo** (https://gohugo.io/)](http://gohugo.io/) (Go)
 -   [**Astro** (https://astro.build/)](https://astro.build/) (Node.js + any framework)
--   [**VuePress** (https://vuepress.vuejs.org/)](https://vuepress.vuejs.org/)  (Vue.js)
+-   [**VitePress** (https://vitepress.vuejs.org/)](https://vitepress.vuejs.org/)  (Vue.js)
 -   [**Gridsome** (https://gridsome.org/)](https://gridsome.org/)  (Vue.js)
 -   [**Hexo** (https://hexo.io/)](https://hexo.io/) (Node.js)
 -   [**Jekyll** (https://jekyllrb.com/)](https://jekyllrb.com/) (Ruby)
