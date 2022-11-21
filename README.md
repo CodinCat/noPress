@@ -33,20 +33,20 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Netlify CMS** (https://www.netlifycms.org/)](https://www.netlifycms.org/) (React)
 -   [**Forestry** (https://forestry.io/)](https://forestry.io/) (Jekyll, Hugo, Git)
 
-#### Static Site Hosting (with a free tier) 
+#### Hosting (with a free tier) 
 -   [Vercel](http://vercel.com/)
 -   [Netlify](https://www.netlify.com/)
 -   [Cloudflare Pages](https://pages.cloudflare.com/)
 -   [Surge](https://surge.sh/)
 -   [render](https://render.com/)
 -   [fly.io](https://fly.io/)
+-   [Railway](https://railway.app/)
 -   [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
 -   [GitHub Pages](https://pages.github.com/)
 -   [Koyeb](https://www.koyeb.com/)
 -   [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 -   [Google App Engine](https://cloud.google.com/appengine/)
 -   [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/)
--   [Heroku](https://www.heroku.com/)
 
 ------
 
