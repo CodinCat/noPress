@@ -76,5 +76,4 @@ Here are some other solutions that are **free**, **open source** and under **act
 -   [**Postleaf** (https://www.postleaf.org/)](https://www.postleaf.org/) (PHP)
 -   [**Neos** (https://www.neos.io/)](https://www.neos.io/) (PHP)
 -   [**Redaxscript** (https://redaxscript.com/)](https://redaxscript.com/) (PHP)
--   [**Nanoblog** (https://codeberg.org/lime360/nanobl0g)](https://codeberg.org/lime360/nanobl0g) (PHP)
 -   [**Joomla!** (https://www.joomla.org/)](https://www.joomla.org/) (PHP)
